@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Game Bash</string>
+    <string name="grid">grid</string>
+    <string name="turn">TURN :</string>
+    <string name="grids">grids</string>
+    <string name="turnlogo">turnLogo</string>
+    <string name="_info_">info</string>
+    <string name="ttt">Tic Tac Toe</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="mute">mute</string>
+    <string name="component">component</string>
+    <string name="logo">logo</string>
+    <string name="info">
+        Tic Tac Toe :\n
+        Tic Tac Toe is free classic puzzle game also known as Noughts and Crosses or sometimes X and O.\n\n
+        The Tic Tac Toe game is a game for two players, who take turns marking the spaces in a 3×3 grid. The player who succeeded in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.\n\n
+        The Tic Tac Toe is a great way to pass your free time whether you\'re standing in a line or spending time with your kids. Stop wasting paper and save trees. Because of the simplicity of Tic Tac Toe, it is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence.\n\n
+        Start playing Tic Tac Toe game on your Android device now.\n\n
+        Fishie Fish :\n
+        Fishie fish is a game in which player will be riding inside the fish which does not know which food it can eat among all food available inside the sea.\n\n
+        Basically this fish is a herbivore. So, Player should be guiding the fish to plants or fruits. Player will be awarded one point for each food he takes and 2 points for food with high calories. But fish dies if it takes meat 3 times.\n\n
+        Basically, it is a 2D game in which player must guide the fish the altitude at which the fish must swim. It eats what all is just in front of it at some altitude.\n\n
+        The altitude of fish increases as we touch the screen multiple times and altitude decreases as we reduce frequency of touching.\n\n
+        Red ball denotes meat, White ball denotes algae wafers(More Calory food) and Yellow ball denotes normal veggies.\n\n
+        Start playing Fishie Fish game on your Android device now.\n
+    </string>
+    <string name="creators">
+        Creators :\n
+        Akshay Jain\n
+        Sarthak Jain\n
+        Navaneeth P\n
+        Rishik TS\n
+    </string>
+    <string name="logo2">logo2</string>
+    <string name="tap_anywhere_on_screen_to_continue_playing">TAP ANYWHERE ON SCREEN TO CONTINUE PLAYING</string>
+    <string name="ff">Fishie Fish</string>
+    <string name="game_detail">: Tap on the fish to move upwards\n: Eat yellow food to get one point\n: Eat white food to get two points\n: Eating red food will lose your one heart\n: The game will be over if you lose all your hearts\n</string>
+</resources>
